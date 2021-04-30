@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T05:12:39.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="2y3HeMUCRar1SaV2QOtk" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T05:13:45.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Hyo7BcxpK0tXKE6Dqc96" version="14.6.3" type="github">
   <diagram id="lwmpdMCQCdkWiJBuIXJP" name="Page-1">
     <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="F5wr1Wprie8iEJpr7TkK-9" value="T/R Switch&lt;br&gt;Circuit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-11" value="Ten-Tec-507-Patriot-Block-Diagram" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
