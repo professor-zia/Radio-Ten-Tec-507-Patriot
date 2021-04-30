@@ -11,6 +11,5 @@ It's sitting there on the shelf; still new and unused
 
 Time to put it to good use with the help of digital modes
 
-Ionosphere; the RF frontier
-
+Ionosphere; the RF frontier ... 
 These are the voyages of Ten-Tec Patriot ...
