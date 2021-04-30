@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T05:04:42.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HrNOcqwun9NZKlMT1sUJ" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T05:12:39.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="2y3HeMUCRar1SaV2QOtk" version="14.6.3" type="github">
   <diagram id="lwmpdMCQCdkWiJBuIXJP" name="Page-1">
     <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -18,6 +18,11 @@
         <mxCell id="XAT848HMKwNp6zP7uulu-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" parent="1" vertex="1">
           <mxGeometry x="60" y="160" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4444444444444444;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XAT848HMKwNp6zP7uulu-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XAT848HMKwNp6zP7uulu-5" value="7/14 MHz LPF" style="verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.logic_gates.lowpass_filter;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
         </mxCell>
@@ -32,7 +37,7 @@
         </mxCell>
         <mxCell id="F5wr1Wprie8iEJpr7TkK-4" value="POWER_OUT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F5wr1Wprie8iEJpr7TkK-1">
           <mxGeometry x="0.2455" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XAT848HMKwNp6zP7uulu-9" value="RF Voltmeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -49,8 +54,22 @@
         </mxCell>
         <mxCell id="F5wr1Wprie8iEJpr7TkK-3" value="BAND_SELECT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F5wr1Wprie8iEJpr7TkK-2">
           <mxGeometry x="-0.2866" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.539;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lkbsZ71UeJXOmE8CEtJe-1" target="F5wr1Wprie8iEJpr7TkK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-10" value="T (TRANSMIT)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F5wr1Wprie8iEJpr7TkK-8">
+          <mxGeometry x="-0.7277" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-9" value="T/R Switch&lt;br&gt;Circuit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
