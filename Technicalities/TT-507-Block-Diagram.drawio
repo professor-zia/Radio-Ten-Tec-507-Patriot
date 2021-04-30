@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T04:42:33.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZWPRcYpQARTfIchiD-qm" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T04:54:56.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="WCYIRdzHOdP_g68JZyjU" version="14.6.3" type="github">
   <diagram id="lwmpdMCQCdkWiJBuIXJP" name="Page-1">
-    <mxGraphModel dx="744" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,11 +27,14 @@
         <mxCell id="XAT848HMKwNp6zP7uulu-7" value="7/14 MHz LPF&lt;br&gt;Relay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.077;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="XAT848HMKwNp6zP7uulu-9" target="lkbsZ71UeJXOmE8CEtJe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XAT848HMKwNp6zP7uulu-9" value="RF Voltmeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lkbsZ71UeJXOmE8CEtJe-1" value="Microcontroller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="200" height="80" as="geometry" />
+        <mxCell id="lkbsZ71UeJXOmE8CEtJe-1" value="chipKIT UNO 32 Controller Board&lt;br&gt;PIC32MX320F128H Microcontroller&lt;br&gt;(80 Mhz 32-bit MIPS,&lt;br/&gt;128K Flash, 16K SRAM)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
