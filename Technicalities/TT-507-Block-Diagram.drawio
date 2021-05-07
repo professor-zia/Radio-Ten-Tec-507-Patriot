@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T03:48:27.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="AKHFidD1hCNsttgdwo5I" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T03:53:20.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="YbuinRvUebran1z6QYmF" version="14.6.9" type="github">
   <diagram id="lwmpdMCQCdkWiJBuIXJP" name="Page-1">
     <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -79,16 +79,16 @@
         <mxCell id="F5wr1Wprie8iEJpr7TkK-12" value="RF Amplifier&lt;br&gt;and&lt;br&gt;Driver Circuit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F5wr1Wprie8iEJpr7TkK-13" value="40m (7MHz)&lt;br&gt;TX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-13" value="7MHz(40m)&lt;br&gt;TX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5wr1Wprie8iEJpr7TkK-14" value="20m (14MHz)&lt;br&gt;TX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-14" value="14MHz(20m)&lt;br&gt;TX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5wr1Wprie8iEJpr7TkK-15" value="40m (7MHz)&lt;br&gt;RX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-15" value="7MHz(40m)&lt;br&gt;RX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5wr1Wprie8iEJpr7TkK-16" value="20m (14MHz)&lt;br&gt;RX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="F5wr1Wprie8iEJpr7TkK-16" value="14MHz(20m)&lt;br&gt;RX Filter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F5wr1Wprie8iEJpr7TkK-17" value="RF1200&lt;br&gt;GaAs&amp;nbsp;SPDT&lt;br&gt;Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
