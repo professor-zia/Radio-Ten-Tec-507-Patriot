@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T03:36:49.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="VSQC5a0AHG8IaXfgc34K" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T03:48:27.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="AKHFidD1hCNsttgdwo5I" version="14.6.9" type="github">
   <diagram id="lwmpdMCQCdkWiJBuIXJP" name="Page-1">
     <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -321,6 +321,40 @@
         </mxCell>
         <mxCell id="8RRBYLiyYnNJ3xKm89xo-9" value="MIXER2&lt;br&gt;SA612" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.991;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8RRBYLiyYnNJ3xKm89xo-14" target="8RRBYLiyYnNJ3xKm89xo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-14" value="Mic-in" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.2_conductor_jack;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.025;entryY=0.847;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8RRBYLiyYnNJ3xKm89xo-15" target="8RRBYLiyYnNJ3xKm89xo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-15" value="Line-in" style="pointerEvents=1;verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=mxgraph.electrical.miscellaneous.2_conductor_jack;flipH=1;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkbsZ71UeJXOmE8CEtJe-1" target="8RRBYLiyYnNJ3xKm89xo-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="550" />
+              <mxPoint x="800" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-20" value="MIC_LINE_MUTE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8RRBYLiyYnNJ3xKm89xo-19">
+          <mxGeometry x="0.7228" y="-1" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8RRBYLiyYnNJ3xKm89xo-16" target="8RRBYLiyYnNJ3xKm89xo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-16" value="Audio Switch&lt;br&gt;2N7002" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8RRBYLiyYnNJ3xKm89xo-22" value="Audio&lt;br&gt;Pre-Amp&lt;br&gt;LM358D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
