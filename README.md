@@ -1,4 +1,4 @@
-# Ten-Tec-507-Patriot
+# TenTec-507-Patriot
 https://www.tentec.com/507-patriot-ssb-cw-qrp/
 
 Ten-Tec-507-Patriot is alive ...
